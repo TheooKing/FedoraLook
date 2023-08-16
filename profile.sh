@@ -107,3 +107,5 @@ elif [ "${1,,}" = "-return-defaults" ]; then
 else
 	echo "No clue what you said, type -help do get some help :)"
 fi
+
+# check from your desktop 'dconf watch /' and change the shell theme, check the output, change accordingly
