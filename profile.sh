@@ -43,14 +43,14 @@ installing(){
 		echo "Replacing directory"; echo ""
 		rm -r $PWD/$SHELL_THEME
 		echo "Downloading Repo"; echo ""
-		git clone https://github.com/TheooKing/Marble-shell-theme.git
+		git clone https://github.com/theolaos/Marble-shell-theme.git
 		echo "running install.py -a"; echo ""
 		cd $SHELL_THEME
 		sudo python3 install.py -a
 		cd ..
 	else
 		echo "Downloading Repo"; echo ""
-		git clone https://github.com/TheooKing/Marble-shell-theme.git
+		git clone https://github.com/theolaos/Marble-shell-theme.git
 		echo "running install.py -a"; echo ""
 		cd $SHELL_THEME
 		sudo python3 install.py -a
