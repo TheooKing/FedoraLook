@@ -7,6 +7,6 @@ My gnome fedora profile
 
 To change your GTK theme you must change it from the Gnome-Tweaks app
 
-If you want to change some theme to your own taste through the terminal, find what get's changed with this:
+If you want to change some theme to your own taste through the terminal, find what file changed with this command:
 
     $ dconf watch /
