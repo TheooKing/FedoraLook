@@ -41,4 +41,4 @@ echo "Lazy to make the script..."
 # pip pyinstaller
 
 # - virual machines
-# setup a windows 10 env with 12gb ram and 100gb space
+# setup a windows 11 env with 12gb ram and 100gb space
