@@ -6,6 +6,7 @@ echo "Lazy to make the script..."
 # colloid icons
 
 # using kvantum - utterly nord solid
+# https://store.kde.org/p/1326272 (for something new)
 # nordic cursors
 
 # general font Monospace with Noto Sans
