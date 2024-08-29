@@ -26,8 +26,25 @@ echo "Lazy to make the script..."
 # Discord (flatpak)
 # spotify (flatpak)
 # obsidian
+# zed
 # pixelorama
 # vivaldi + brave
+
+# - vscode extensions
+# rose pine
+# catpuccin
+# serial monitor
+# python
+# wakatime
+# c++
+# cmake language support
+# cmake tools
+# even better toml
+# gitlens
+# hexeditor
+# markdown preview
+# memoryview
+# Nvim
 
 # - development
 # CMake
