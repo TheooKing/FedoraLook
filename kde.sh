@@ -3,13 +3,12 @@
 
 echo "Lazy to make the script..."
 
-# colloid icons
 
-# using kvantum - utterly nord solid
-# https://store.kde.org/p/1326272 (for something new)
-# nordic cursors
+# using kvantum - lavanda sea dark (splash screen: utterly nord)
+# icons colloid dark
+# classic breeze cursors
 
-# general font Monospace with Noto Sans
+# general font Source Code Pro with Noto Sans
 
 # rely on a video on how to customize kde
 
@@ -17,6 +16,8 @@ echo "Lazy to make the script..."
 # auto-cpu freq (theolaos star)
 # spotify ad-block BashSpotX
 # kde rounded corners (theolaos star)
+# kwin-force-blur
+
 
 # - general applications
 # nvim
